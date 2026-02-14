@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhajit-paul-web&label=Profile%20views&color=0e75b6&style=flat" alt="shubhajit-paul-web" /> </p>
 
-- 🔭 I’m currently working on **Online Market Place Microservices - Production Grade**
+- 🔭 I’m currently working on **3 scalable AI-Powered Products**
 
-- 🌱 I’m currently learning **NodeJS, Express, MongoDB, etc.**
+- 🌱 I’m currently learning **Advanced NodeJS, Express, MongoDB, AWS, GenAI, System Design, etc.**
 
 - 💬 Ask me about **MERN Stack**
 
