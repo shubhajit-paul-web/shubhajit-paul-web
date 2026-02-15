@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **3 scalable AI-Powered Products**
 
-- 🌱 I’m currently learning **AWS, GenAI, System Design, etc.**
+- 🌱 I’m currently learning **DevOps, GenAI, HLD, LLD - System Design, etc.**
 
 - 💬 Ask me about **MERN Stack**
 
@@ -22,7 +22,7 @@
 <a href="https://twitter.com/shubhajitdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shubhajitdev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shubhajit-paul-web" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubhajit-paul-web" height="30" width="40" /></a>
 <a href="https://fb.com/shubhajitpauls" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shubhajitpauls" height="30" width="40" /></a>
-<a href="https://instagram.com/silent_shubhajit_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="silent_shubhajit_" height="30" width="40" /></a>
+<a href="https://www.instagram.com/async_shubhajit/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="async_shubhajit" height="30" width="40" /></a>
 <a href="https://medium.com/@shubhajitdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shubhajitdev" height="30" width="40" /></a>
 </p>
 
