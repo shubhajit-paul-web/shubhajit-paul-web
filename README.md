@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **3 scalable AI-Powered Products**
 
-- 🌱 I’m currently learning **Advanced NodeJS, Express, MongoDB, AWS, GenAI, System Design, etc.**
+- 🌱 I’m currently learning **AWS, GenAI, System Design, etc.**
 
 - 💬 Ask me about **MERN Stack**
 
